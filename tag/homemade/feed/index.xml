@@ -12,7 +12,7 @@
 	<atom:link href="/tag/homemade/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 06 Oct 2020 15:01:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Oct 2020 12:03:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Bánh mì Việt Nam</title>
 		<link>/2020/10/06/banh-mi-viet-nam/</link>
-					<comments>/2020/10/06/banh-mi-viet-nam/#respond</comments>
 		
 		<dc:creator><![CDATA[Pink]]></dc:creator>
 		<pubDate>Tue, 06 Oct 2020 14:47:36 +0000</pubDate>
@@ -79,8 +78,6 @@
 <p><em>Bona Appetit!</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/10/06/banh-mi-viet-nam/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
