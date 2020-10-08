@@ -4,7 +4,7 @@ title: Bánh mì Việt Nam
 date: 2020-10-08T10:48:05.314Z
 thumbnail: /asset/img/uploads/img_0562.jpg
 categories: Foods
-summary: Cách làm bánh mì Việt Nam thơm ngon, giòn rụm.
+# summary: Cách làm bánh mì Việt Nam thơm ngon, giòn rụm.
 ---
 **Công thức:**
 

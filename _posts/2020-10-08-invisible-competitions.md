@@ -4,7 +4,7 @@ title: Invisible competitions
 date: 2020-10-08T10:29:44.142Z
 thumbnail: /asset/img/uploads/23173512.jpg
 categories: Thoughts
-summary: What are our competitions going up?
+# summary: What are our competitions going up?
 ---
 What are our competitions going up?
 
