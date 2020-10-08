@@ -8,7 +8,6 @@ baseurl:     ""
 url:         "https://hongvtt.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
  - contact.html
 
 google_analytics:
@@ -27,8 +26,8 @@ disqus_shortname: hongvtt
 
 # Social icons
 github_username: hongvtt7791
-twitter_username: tatung2112
-linkedin_username: tung-ta-duc-783aa94b
+# twitter_username: tatung2112
+# linkedin_username: tung-ta-duc-783aa94b
 
 # Post sharing icons
 show_sharing_icons: true
