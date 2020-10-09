@@ -5,6 +5,8 @@ date: 2016-10-14T07:10:07.085Z
 thumbnail: /asset/img/uploads/xavier-l-0llqmut-qfk-unsplash.jpg
 categories: Thoughts
 ---
+![](/asset/img/uploads/xavier-l-0llqmut-qfk-unsplash.jpg)
+
 Có một điều mình luôn cảm thấy từ khi đến cái đất nước này, thành phố này, là cảm giác nuối tiếc thời gian, nuối tiếc cuộc sống. Cảm giác đó quay quắt, khó chịu, như khối ung thư cứ bám lấy cơ thể con người và dày vò họ bằng những cơn đau hết ngày này đến ngày khác, và ngày một lan ra, ngày một quay quắt, cùng cực.
 
 Khi thức dậy hàng ngày vào buổi sáng để đi làm, mình chỉ có hơn 10 phút để đi bộ từ cửa nhà đến ga. Đó là 10 phút mình muốn níu kéo từng giây một đến day dứt. Mình ghen tị với tất cả những người trông có vẻ không phải dùng cả 12 tiếng tiếp theo nhốt mình trong những toa tầu điện đi đến công ty, có di chuyển nhưng đơn giản chỉ là đi từ cái lồng sắt này sang cái lồng sắt khác, cả ngày chôn chân trong công ty trong khi cuộc sống bên ngoài kia hấp dẫn và thú vị đến nhường nào, khi bầu trời cao trong xanh và tha thiết ra sao, khi ánh mặt trời rực rỡ và sống động đến thế...Sau đó khi mặt trời đã tắt nắng, mọi vật trở lại trạng thái đáng ghét uể oải nhất thì mới xách cặp ra về, lên tàu điện, trở về nhà với sự tiếc nuối và chán ghét đến phát điên!
@@ -32,7 +34,5 @@ Một lần mình đã ngồi trên chính đoàn tàu đó. Có thê�
 Mình đã định kết thúc câu chuyện một cách bất ngờ, xoay chuyển tình thế vào lúc bí hiểm nào đó, gây ngạc nhiên hoặc gợi ra một cái kết mở tràn đầy tự tin và hi vọng, như những quyển sách trong sáng và lạc quan nhất mà mình đã từng đọc. Nhưng hiện tại mình chưa thể tìm thấy lối thoát.
 
 Hàng ngày mình vẫn phải làm công việc của những người thợ mỏ, ban ngày thì giấu mình vào những chỗ tối tăm không có ánh sáng, và chỉ chui ra khi màn đêm đã bao trùm, hàng ngày mình vẫn sẽ vừa say mê vừa căm ghét khung cảnh từ ô cửa sổ nhỏ bé lạc lõng kia, và mơ về một tương lai sáng sủa hơn cho mình.
-
-
 
 Đúng vậy, nhưng ít ra mình sẽ không căm ghét bản thân nhiều như trước nữa, đơn giản bởi những người yêu cuộc sống, khao khát cuộc sống luôn luôn đáng được yêu thương trân trọng.
