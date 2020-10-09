@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/b%E1%BB%A9c-tranh-trong-khung-th%C3%A9p</loc>
+<lastmod>2016-10-14T16:10:07+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/vi%E1%BA%BFt-cho-con-12-16-2019</loc>
+<lastmod>2019-12-16T09:19:48+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/m%E1%BA%B9-y%C3%AAu-con-theo-c%C3%A1ch-c%E1%BB%A7a-ri%C3%AAng-m%E1%BA%B9</loc>
+<lastmod>2019-12-17T09:33:51+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/l%C3%A0m-ng%C6%B0%E1%BB%9Di-l%C3%A0-nh%C6%B0-th%E1%BA%BF-n%C3%A0o</loc>
+<lastmod>2020-02-20T09:36:52+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/invisible-competitions</loc>
 <lastmod>2020-10-08T19:29:44+09:00</lastmod>
 </url>
@@ -21,7 +37,14 @@
 <loc>http://localhost:4000/thanks/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/admin/</loc>
 <lastmod>2020-10-08T14:31:35+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/myadmin/</loc>
+<lastmod>2020-10-08T22:35:36+09:00</lastmod>
 </url>
 </urlset>

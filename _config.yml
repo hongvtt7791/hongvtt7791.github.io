@@ -10,7 +10,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - contact.html
 
-google_analytics:
+google_analytics: UA-180168847-1
 
 # Optional features
 animated:             true
