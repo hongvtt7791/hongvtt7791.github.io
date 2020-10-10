@@ -32,10 +32,10 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/foods/</loc>
+<loc>http://localhost:4000/categories/foods/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/thoughts/</loc>
+<loc>http://localhost:4000/categories/thoughts/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>

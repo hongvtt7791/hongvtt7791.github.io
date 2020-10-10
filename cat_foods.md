@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Foods
-permalink: /foods/
+permalink: /categories/foods/
 ---
 {% assign posts_count = site.categories.Foods | size %}
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thoughts
-permalink: /thoughts/
+permalink: /categories/thoughts/
 ---
 {% assign posts_count = site.categories.Thoughts | size %}
 
