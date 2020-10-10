@@ -34,6 +34,6 @@ categories: Foods
 * Nướng 240 độ 8 phút.
 * Hạ 200 độ nướng thêm 8 phút.
 
-  ![](/asset/img/uploads/img_0296.jpg)
+![](/asset/img/uploads/img_0296.jpg)
 
 *Bona Appetit!*

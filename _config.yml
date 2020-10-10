@@ -8,6 +8,8 @@ baseurl:     ""
 url:         "https://hongvtt.com"
 date_format: "%b %-d, %Y"
 header_pages:
+ - cat_thoughts.md
+ - cat_foods.md
  - contact.html
 
 google_analytics: UA-180168847-1
