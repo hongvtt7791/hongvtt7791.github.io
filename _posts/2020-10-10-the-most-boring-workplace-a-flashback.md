@@ -23,7 +23,7 @@ Another door. Another security gateway. Another level to raise, or low, your sel
 You touch your card. A normal “beep” sound welcomes you in. Good. Normal is good. People here only prefer normal things. Don’t try to make any fuss or any unexpected moves. Just do it normally here. You don’t want to bother anybody and neither do them.
 
 
-The door is opened and in front of you are countless lines of grey-ish tables. Each one has a laptop or a PC and a heap of papers on it. A black chair with rotatable legs sits right in front of the table. And the whole room is lit up by a very blurred light comes from the ceiling, because the windows are too far away and too tiny for the room for any sunshine to break in here.
+The door is opened and in front of you are countless lines of grey-ish tables. Each one has a laptop or a PC and a heap of paper on it. A black chair with rotatable legs sits right in front of the table. And the whole room is lit up by a very blurred light comes from the ceiling, because the windows are too far away and too tiny for the room for any sunshine to break in here.
 
 You then again quickly locate your place and walk in a, guess what, grey carpet heading to it. 
 
