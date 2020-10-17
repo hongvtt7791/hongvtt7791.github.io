@@ -3,7 +3,7 @@ layout: post
 title: Giặc ở trong bếp nhà ngươi đó!
 date: 2020-10-17T16:52:20.984Z
 thumbnail: /asset/img/uploads/img_3078.jpg
-categories: Food
+categories: Foods
 ---
 Gần đây mình đang tìm hiểu về các loại đồ dùng trong bếp để thay thế cho bộ xoong chảo sử dụng gần 5 năm đã trở nên xập xệ ở bếp nhà. Nhờ thế nên mình góp nhặt được rất nhiều thông tin vô cùng hữu ích về các vật dụng không thể thiếu hàng ngày này. Trong đó có những kiến thức khiến mình bàng hoàng nhận ra từ trước đến nay mình đã sai lầm đến thế nào, và nếu không sửa chữa kịp thời thì sẽ để lại những hậu quả khôn lường cho sức khoẻ của cả nhà. Vì vậy mình muốn chia sẻ cho mọi người để không ai vì thiếu hiểu biết mà vô tình “đầu độc” bản thân và gia đình nữa.
 
