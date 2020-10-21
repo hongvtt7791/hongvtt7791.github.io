@@ -29,7 +29,7 @@ Tương tự như nhôm, đồng dẫn nhiệt tốt và là vật liệu làm �
 
 Để tăng tính tiện dụng cho xoong, nồi, nhất là chảo, nhà sản xuất sử dụng các lớp mạ chống dính (non-stick coating). Lớp mạ này có thể chia làm 2 loại chính, PTFE(polytetrafluoroethylene) và mạ sứ (ceramic coating).
 
-PTFE, hay nổi tiếng hơn với tên gọi Teflon - một dòng cookware chống dính của DuPont, là một loại nhựa polymer với tính năng chống dính ưu việt, nhưng đồng thời có độc tính cao và nó sẽ giải phóng chất độc nếu được đun nóng trên 300 độ C (572 độ F). Chất độc này khi bay hơi và bị hít phải sẽ gây ra bệnh cúm Teflont ở người với các triệu chứng như tức ngực, khó thở, viêm phổi, và đặc biệt nguy hiểm với vẹt và một số loài chim.
+PTFE, hay nổi tiếng hơn với tên gọi Teflon - một dòng cookware chống dính của DuPont, là một loại nhựa polymer với tính năng chống dính ưu việt, nhưng đồng thời có độc tính cao và nó sẽ giải phóng chất độc nếu được đun nóng trên 300 độ C (572 độ F). Chất độc này khi bay hơi và bị hít phải sẽ gây ra bệnh cúm Teflon ở người với các triệu chứng như tức ngực, khó thở, viêm phổi, và đặc biệt nguy hiểm với vẹt và một số loài chim.
 
 Teflon sản xuất trước 2013 có chứa PFOA (Peflourooanoic acid), là một chất kịch độc đã được chứng minh có liên quan đến các bệnh ung thư vú, tuyến tiền liệt và buồng trứng. PFOA được tìm thấy trong mẫu máu người và mẫu nước ăn ở rất nhiều nơi trên thế giới do sự phổ biến của xoong chảo chống dính Teflon. Nghiên cứu chỉ ra cơ thể con người phải mất ít nhất 20 năm để đào thải Teflon một khi đã bị nhiễm. Nhưng đáng ngại hơn nữa là hợp chất này không tự phân huỷ trong môi trường tự nhiên nên sẽ để lại sự ô nhiễm kéo dài.
 
@@ -61,7 +61,7 @@ Nồi gang tráng men (enameled cast iron) cũng là một lựa chọn tốt đ
 
 Thuỷ tinh và gỗ đều có nguồn gốc tự nhiên nên đảm bảo tính an toàn, thân thiện với môi trường. Tuy nhiên độ chống dính không được xuất sắc và đòi hỏi người sử dụng phải nâng niu gìn giữ hơn.
 
-Nồi xoong chảo là công cụ tuyệt vời của những người yêu bếp. Nhưng nếu không lựa chọn và sử dụng đúng thì chungs sẽ trở thành con dao hai lưỡi mang lại những hiểm hoạ khó lường. Mong mỗi chúng ta đều sáng suốt và hiểu biết để có một căn bếp healthy đúng nghĩa, mang lại cuộc sống an toàn dài lâu.
+Nồi xoong chảo là công cụ tuyệt vời của những người yêu bếp. Nhưng nếu không lựa chọn và sử dụng đúng thì ch sẽ trở thành con dao hai lưỡi mang lại những hiểm hoạ khó lường. Mong mỗi chúng ta đều sáng suốt và hiểu biết để có một căn bếp healthy đúng nghĩa, mang lại cuộc sống an toàn dài lâu.
 
 Source: (dịch)
 
